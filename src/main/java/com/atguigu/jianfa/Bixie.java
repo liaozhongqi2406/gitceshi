@@ -8,5 +8,8 @@ package com.atguigu.jianfa;
 public class Bixie {
     public static void main(String[] args) {
         System.out.println("hello git");
+        System.out.println("woxiugai le ");
+        System.out.println("woxiugai le ");
+        System.out.println("woxiugai le ");
     }
 }
